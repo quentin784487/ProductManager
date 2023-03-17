@@ -7,7 +7,7 @@ namespace ProductManager.UnitTests
 {
     public class ProductControllerTest : IClassFixture<ProductController>
     {
-        private readonly ProductController _controller;
+        private ProductController _controller;
         private readonly IGetProducts _getProducts;
 
         public ProductControllerTest(IGetProducts getProducts)
