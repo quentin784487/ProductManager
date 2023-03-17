@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProductManager.CORE.Domain.Ports.Incoming;
 using Web.API.Controllers;
 
 namespace ProductManager.UnitTests
@@ -6,10 +7,12 @@ namespace ProductManager.UnitTests
     public class ProductControllerTest
     {
         private readonly ProductController _controller;
+        private readonly IGetProducts _getProducts;
 
-        public ProductControllerTest()
+        public ProductControllerTest(IGetProducts getProducts)
         {
-            _controller = new ProductController();
+            _getProducts = getProducts;
+            _controller = new ProductController(_getProducts);
         }
 
         [Fact]

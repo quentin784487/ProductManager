@@ -17,10 +17,6 @@ namespace Web.API.Controllers
             this.getProducts = getProducts;
         }
 
-        public ProductController()
-        {
-        }
-
         // GET: api/<ProductController>
         [HttpGet]
         public async Task<IActionResult> Get()
