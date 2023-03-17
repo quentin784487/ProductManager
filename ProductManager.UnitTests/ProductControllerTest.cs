@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProductManager.CORE.Domain.Ports.Incoming;
 using Web.API.Controllers;
+using Xunit;
 
 namespace ProductManager.UnitTests
 {
-    public class ProductControllerTest
+    public class ProductControllerTest : IClassFixture<ProductController>
     {
         private readonly ProductController _controller;
         private readonly IGetProducts _getProducts;
