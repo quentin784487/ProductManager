@@ -1,0 +1,17 @@
+C:\_systems\ProductManager\ProductManager.Core\bin\Debug\net6.0\ProductManager.Core.deps.json
+C:\_systems\ProductManager\ProductManager.CORE\bin\Debug\net6.0\ProductManager.Core.dll
+C:\_systems\ProductManager\ProductManager.CORE\bin\Debug\net6.0\ProductManager.Core.pdb
+C:\_systems\ProductManager\ProductManager.CORE\bin\Debug\net6.0\ProductManager.EntityFramework.dll
+C:\_systems\ProductManager\ProductManager.CORE\bin\Debug\net6.0\ProductManager.Shared.dll
+C:\_systems\ProductManager\ProductManager.CORE\bin\Debug\net6.0\ProductManager.EntityFramework.pdb
+C:\_systems\ProductManager\ProductManager.CORE\bin\Debug\net6.0\ProductManager.Shared.pdb
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\ProductManager.Core.csproj.AssemblyReference.cache
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\ProductManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\ProductManager.Core.AssemblyInfoInputs.cache
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\ProductManager.Core.AssemblyInfo.cs
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\ProductManager.Core.csproj.CoreCompileInputs.cache
+C:\_systems\ProductManager\ProductManager.Core\obj\Debug\net6.0\ProductManager.Core.csproj.CopyComplete
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\ProductManager.Core.dll
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\refint\ProductManager.Core.dll
+C:\_systems\ProductManager\ProductManager.CORE\obj\Debug\net6.0\ProductManager.Core.pdb
+C:\_systems\ProductManager\ProductManager.Core\obj\Debug\net6.0\ref\ProductManager.Core.dll
